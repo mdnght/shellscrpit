@@ -1,2 +1,2 @@
 # shellscrpit
-Some shell scrpti
+Some shell scrpit
