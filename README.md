@@ -1,2 +1,2 @@
-# shellscrpit
-Some shell scrpit
+# shellscript
+Some shell script
