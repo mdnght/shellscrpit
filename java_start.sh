@@ -1,7 +1,7 @@
 #!/bin/bash
 JDK_HOME="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.242.b08-0.el7_7.x86_64/bin/java"
 VM_OPTS="-Xms2048m -Xmx2048m"
-SPB_OPTS="--spring.profiles.active=dev"
+#SPB_OPTS="--spring.profiles.active=dev"
 APP_LOCATION="/data/shell/app.jar"
 APP_NAME="app"
 PID_CMD="ps -ef |grep $APP_NAME |grep -v grep |awk '{print \$2}'"
